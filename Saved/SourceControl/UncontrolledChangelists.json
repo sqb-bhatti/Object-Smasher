@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/saqibbhatti/Documents/Unreal Projects/Udemy Course/Destruction/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"/Users/saqibbhatti/Documents/Unreal Projects/Udemy Course/Destruction/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/saqibbhatti/Documents/Unreal Projects/Udemy Course/Destruction/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"/Users/saqibbhatti/Documents/Unreal Projects/Udemy Course/Destruction/Content/BP_Projectile.uasset"
+			]
+		}
+	]
+}
